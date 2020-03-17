@@ -1,1 +1,2 @@
-# Simple_linear_regression
+# simple-Linear-Regression
+Simple Linear implementation with python
